@@ -80,62 +80,7 @@
       "category": "Jeans",
       "description": "Make a bold statement with our Ripped Skinny Jeans. The distressed details and skinny fit create an edgy and fashionable look. Crafted from high-quality denim for durability. Available in sizes 28, 30, 32, and 34. Color: Blue. Rating: 4.5."
     },
-    {
-      "id": 11,
-      "img": "https://i.ebayimg.com/images/g/znkAAOSwGqBjTl1n/s-l1600.jpg",
-      "name": "Crewneck Sweatshirt",
-      "price": 26.99,
-      "category": "Sweatshirts",
-      "description": "Stay cozy in our Crewneck Sweatshirt. Made from a soft and comfortable fabric, this sweatshirt is perfect for casual outings or lounging at home. Available in sizes S, M, L, and XL. Color: Heather Grey. Rating: 4.1."
-    },
-    {
-      "id": 12,
-      "img": "https://m.media-amazon.com/images/I/41fwDWWs2hL._SR240,220_.jpg",
-      "name": "Denim Trucker Jacket",
-      "price": 54.99,
-      "category": "Jackets",
-      "description": "Add a touch of casual coolness with our Denim Trucker Jacket. This jacket is a timeless piece that pairs well with various outfits. Made from durable denim for lasting style. Available in sizes S, M, L, and XL. Color: Blue. Rating: 4.6."
-    },
-    {
-      "id": 13,
-      "img": "https://d2ntqahvvwl3d4.cloudfront.net/catalog/product/cache/afbc6ead962d7038f55c866f367c7c94/7/9/79161-590-helly-hansen-manchester-t-shirt-marine-blauw.jpg",
-      "name": "V-Neck Pocket T-Shirt",
-      "price": 18.99,
-      "category": "T-shirts",
-      "description": "Upgrade your basics with our V-Neck Pocket T-Shirt. The v-neck design and chest pocket add a stylish touch to this essential piece. Made from soft and breathable fabric for all-day comfort. Available in sizes S, M, L, and XL. Color: Black. Rating: 4.0."
-    },
-    {
-      "id": 14,
-      "img": "https://images.lvrcdn.com/Big77I/4CR/011_8012fbb8-f705-4e9e-b4ee-92d01bfc2e0a.JPG",
-      "name": "Bootcut Dark Wash Jeans",
-      "price": 42.99,
-      "category": "Jeans",
-      "description": "Achieve a classic and flattering look with our Bootcut Dark Wash Jeans. The dark wash and bootcut silhouette make these jeans versatile for various occasions. Available in sizes 28, 30, 32, and 34. Color: Dark Wash. Rating: 4.4."
-    },
-    {
-      "id": 15,
-      "img": "https://kixbox.ru/cdn/shop/products/c7cf746b85059c2e0afc6af765bdac1c_fbe790b2-7da3-481d-86c6-5c889e75ec79_1000x1000.jpg?v=1704897804",
-      "name": "French Terry Hoodie",
-      "price": 31.99,
-      "category": "Sweatshirts",
-      "description": "Stay comfortable and stylish in our French Terry Hoodie. The hoodie is crafted from soft French terry fabric, making it a cozy choice for casual days. Available in sizes S, M, L, and XL. Color: Charcoal. Rating: 4.2."
-    },
-    {
-      "id": 16,
-      "img": "https://i5.walmartimages.com/asr/511e10a0-396c-4e0f-8824-975ed26544e7.b0f8c1a82b63feb755d279ba76b6da7f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFFU",
-      "name": "Quilted Leather Jacket",
-      "price": 69.99,
-      "category": "Jackets",
-      "description": "Elevate your outerwear collection with our Quilted Leather Jacket. The quilted details and genuine leather create a luxurious and fashionable look. Available in sizes S, M, L, and XL. Color: Brown. Rating: 4.9."
-    },
-    {
-      "id": 17,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqltiz3gUi-1gQ1f3r5NQAdWFCoIeW1-RQnhbf4MIWg81FppNvXYZBkZ3vTzAY4puyQA&usqp=CAU",
-      "name": "Vintage Logo T-Shirt",
-      "price": 21.99,
-      "category": "T-shirts",
-      "description": "Showcase retro vibes with our Vintage Logo T-Shirt. The vintage-inspired logo adds a nostalgic touch to your casual look. Made from soft cotton for comfort. Available in sizes S, M, L, and XL. Color: Grey. Rating: 4.1."
-    },
+    
    
   ]
 }
